@@ -2,7 +2,7 @@
 
 START 
 
-user meng input sebuah angka
+input sebuah angka
 
 if angka tersebut ganjil THEN
     TAMPILKAN "ganjil"
